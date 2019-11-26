@@ -26,7 +26,7 @@ public class kientrinhsort {
 		
 		// output
 		System.out.println(Arrays.toString(intArray));
-		System.out.println("what???");
+		System.out.println("what");
     }
 	
 	private static void mySort(int[] intArray){
