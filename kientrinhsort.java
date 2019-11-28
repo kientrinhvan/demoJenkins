@@ -26,7 +26,7 @@ public class kientrinhsort {
 		
 		// output
 		System.out.println(Arrays.toString(intArray));
-		System.out.println("bigant ");
+		System.out.println("bigant kientrinh");
     }
 	
 	private static void mySort(int[] intArray){
